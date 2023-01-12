@@ -1,0 +1,6 @@
+/test.md
+\test.md
+/node_modules
+\node_modules
+test.md
+./test.md
